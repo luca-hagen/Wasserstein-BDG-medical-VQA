@@ -1,0 +1,11 @@
+datasets
+matplotlib
+numpy
+Pillow
+requests
+scikit-learn
+sentence-transformers
+torch
+transformers
+POT
+EOF
